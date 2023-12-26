@@ -1,16 +1,17 @@
-### Hi there 👋
+# 자기소개
+백엔드 개발자를 준비하고 있는 이기훈입니다.
+# 기술 스택
+frontend: javascript, html, css
 
-<!--
-**kihoo-ni/kihoo-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+backend: java, jsp, mysql
 
-Here are some ideas to get you started:
+tool: eclipse, draw.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 현재 공부하고있는 것
+cs전공공부
+
+코딩테스트 준비
+
+스프링+스프링부트
+
