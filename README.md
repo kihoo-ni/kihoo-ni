@@ -5,7 +5,7 @@ frontend: javascript, html, css
 
 backend: java, jsp, mysql
 
-tool: eclipse, draw.io
+tool: eclipse, vscode, draw.io
 
 
 # 현재 공부하고있는 것
