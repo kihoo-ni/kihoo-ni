@@ -1,4 +1,4 @@
-# 백엔드 개발자 이기훈
+# developer lee-kihoon
 
 ## 기술 스택
 
