@@ -1,4 +1,3 @@
-# developer lee-kihoon
 
 ## 기술 스택
 
