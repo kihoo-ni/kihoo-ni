@@ -30,3 +30,5 @@
 |           | - Coupon REST API 문서를 Swagger를 통해 배포 서버에서 볼 수 있게 함                         |
 |           | - 사용자 쿠폰 발급 시 RabbitMQ를 이용하여 발급 처리   
 ---
+
+### my velog https://velog.io/@lkh/posts
