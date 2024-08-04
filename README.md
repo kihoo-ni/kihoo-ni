@@ -31,4 +31,4 @@
 |           | - 사용자 쿠폰 발급 시 RabbitMQ를 이용하여 발급 처리   
 ---
 
-### my velog https://velog.io/@lkh/posts
+### my blog https://velog.io/@lkh/posts
