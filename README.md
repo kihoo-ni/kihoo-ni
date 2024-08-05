@@ -1,7 +1,11 @@
+## 교육
+- nhnacademy(6기) 자바 백엔드 과정 수료(24.02~24.08)
+- 국제직업전문학교 자바 웹개발 과정 수료(23.06~23.12)
+- 전남대학교 경영학부(22년 졸업)
 
 ## 기술 스택
 
-- **Backend**: Java, MySQL, Spring Boot, JPA
+- **Backend**: Java, Spring Boot, JPA, mysql
 
 ---
 
@@ -32,3 +36,5 @@
 ---
 
 ### my blog https://velog.io/@lkh/posts
+
+
