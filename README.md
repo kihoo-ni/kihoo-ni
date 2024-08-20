@@ -1,7 +1,13 @@
 
 ## 기술 스택
 
-- **Backend**: Java, Spring Boot, JPA, mysql
+
+
+
+- **Languages**: Java, js, html/css
+- **Databases**: mysql
+- **Tools & IDEs**: git, github, intellij, eclipse, vscode
+- **Fameworks & Libraries**: springboot, jpa, jsp, thymeleaf
 
 ---
 
