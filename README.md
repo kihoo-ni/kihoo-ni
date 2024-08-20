@@ -4,7 +4,7 @@
 
 
 
-- **Languages**: Java, js, html/css
+- **Languages**: Java, JavaScrpit, html/css
 - **Databases**: mysql
 - **Tools & IDEs**: git, github, intellij, eclipse, vscode
 - **Fameworks & Libraries**: springboot, jpa, jsp, thymeleaf
